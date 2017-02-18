@@ -1,0 +1,32 @@
+Instructions :- 
+
+	* Game is similar like angry birds , there will be a tank which will fire balls and can hit anywhere in the arena . 
+	* Your aim is to remove all the targets shown in red color , and minding not to hit the yellow bricks , as if you hit any one of them all the removed targets will appear again and you will loose one live . 
+	* You will be given 5 lives to play the game . 
+	* You will earn different score on hitting different targets depending on the difficulty levels of targets . 
+	* For each shot you will be penalised -10 scores , so try to hit targets in as much less shots as possible . 
+
+controls :- 
+	
+	* This is both mouse and keyboard controlled game . 
+	* KEY a :- increase the angle of tank . 
+	* KEY b :- decrease the angle of tank . 
+	* KEY f :- increase the speed of ball fired . 
+	* KEY s :- decrease the speed of ball fired . 
+	* space :- to fire the ball . 
+	* left mouse button :- increase the angle of tank . 
+	* right mouse button :- decrease the angle of tank . 
+
+
+
+Description :- 
+
+	Game starts with 5 targets on the right side of the screen , while there will be one tank on the left bottom corner from balls will be fired  . there will be 5 danger obstacles in between path of tank and targets . 
+	your main target is to destroy all the targets with as much less shots as possible , and making as much high score as possible . 
+	whenver you hit any target you will be awarded with some points depending on which target . 
+	To fire the ball , you have to first adjust the angle of tank according to which target you want to hit , then you can also adjust the speed of the ball according to distance of the target . 
+	For every shot you will be penalised -10 scores so try to finish the targets in much less shots as possible . 
+	yellow obstacles can be very danger as if you hit them , not only you will waste your one shot , but also all the previous removed targets will appear again and you have to remove them again . 
+
+
+                  ******************************THANK YOU FOR PLAYING GAME ***************************************************************
